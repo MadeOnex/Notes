@@ -115,6 +115,12 @@ git push
 ~ Branch Erstellen
 ```bash
 git switch -c "name"
+# C Steht für Create
+```
+
+~Branch Wechseln
+```bash
+git switch "name"
 ```
 
 ~Visual Studio Code öffnen
@@ -125,6 +131,7 @@ code .
 ~ Aufgaben in der eigenen branch integrieren
 ```bash
 git pull origin main
+# Auf dem eigenen Branch (do)
 ```
 
 ~Halbfertige Änderungen nicht in *commit history*
@@ -150,7 +157,7 @@ git log
 
 ~ Wiederherstellen
 ```bash
-git restore
+git restore 
 ```
 * * für alle Dateien
 
