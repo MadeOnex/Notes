@@ -1,20 +1,22 @@
 ## Projekt Starten
 
+~Delete 
+*Löschen einer kompletten Datenbank, wenn sie schon existiert*
+```sql
+DROP DATABASE IF EXISTS Datenbankname;
+```
+
 ~ Create
 ```sql
-CREATE DATABASE "name";
+CREATE DATABASE Datenbankname;
 ```
 
 ~ Use
 ```sql
-USE "name";
+USE Datenbankname;
 ```
 
-~Delete
-```sql
-DROP DATABASE IF EXISTS "name";
-```
-
+---
 ## Befehle
 
 ~ Entität erstellen

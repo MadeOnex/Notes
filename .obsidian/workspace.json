@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "DBeaver.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "DBeaver"
             }
           }
         ]
@@ -166,13 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ebc9b27d5ffac27",
+  "active": "a34edf84283696ca",
   "lastOpenFiles": [
+    "Git.md",
     "Notes/Git.md",
     "Notes",
     "DBeaver.md",
     "Desktop",
-    "Git.md",
     "Welcome.md",
     "Untitled",
     "2025-06-25.md",
