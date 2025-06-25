@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "93a5b6a6fb78b341",
+    "id": "fd99328412bb8625",
     "type": "split",
     "children": [
       {
-        "id": "80331bfe31e232f7",
+        "id": "20dd093a8b20a3fe",
         "type": "tabs",
         "children": [
           {
-            "id": "36923c3416c8d1ce",
+            "id": "8ebc9b27d5ffac27",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "42848e0cadd6b3d8",
+    "id": "ddb0c6a881c30f32",
     "type": "split",
     "children": [
       {
-        "id": "32d1629fdf42c6eb",
+        "id": "04f93347d06533bf",
         "type": "tabs",
         "children": [
           {
-            "id": "6f82d5b5c265c0ab",
+            "id": "a34edf84283696ca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,13 +48,13 @@
             }
           },
           {
-            "id": "80d1664c615d9e03",
+            "id": "0cfe14f79bec771a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "8a8b45b0e23f2543",
+            "id": "959e508b82ed8e1e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "e4e2f5ec15b33891",
+    "id": "1bcb7bfa72214959",
     "type": "split",
     "children": [
       {
-        "id": "f4cc4ebc1139617f",
+        "id": "d34c03bc06b54b47",
         "type": "tabs",
         "children": [
           {
-            "id": "bad7df4eaea01208",
+            "id": "3d192766798262a8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "52009dd6511463fe",
+            "id": "82e8e9d13011fb78",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Git"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "c8cee6783c17b68b",
+            "id": "dddbab72f71af4f8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,21 +135,21 @@
             }
           },
           {
-            "id": "86436bf13eb6cacd",
+            "id": "46590fd2ae54436b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Git"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -168,14 +166,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36923c3416c8d1ce",
+  "active": "8ebc9b27d5ffac27",
   "lastOpenFiles": [
-    "().md",
-    "Git.md",
+    "Notes/Git.md",
     "Notes",
-    "Untitled.canvas",
-    "2025-06-24.md",
+    "DBeaver.md",
+    "Desktop",
+    "Git.md",
+    "Welcome.md",
+    "Untitled",
+    "2025-06-25.md",
     "create a link.md",
-    "Welcome.md"
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
