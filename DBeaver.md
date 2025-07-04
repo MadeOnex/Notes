@@ -1,5 +1,20 @@
 ## Projekt Starten
 
+~XAMPP Starten und MySQL Starten
+~DBeaver Starten
+~ Script für die Datenbank öffnen
+~ Script ausführen
+```
+USE Datenbankname;
+```
+~SQL Statements schreiben + Ausführen
+~Datenbank Aktualisieren (F5)
+~Gewünschte Datenbank im Datenbanknavigator ausklappen
+~"Tables" ausklappen
+~Doppelklick auf die gewünschte Tabelle
+~Ggf. Reiter Daten (Tabellendaten) auswählen
+	-> Alle Daten in dieser Tabelle
+
 ~Delete 
 *Löschen einer kompletten Datenbank, wenn sie schon existiert*
 ```sql
@@ -13,7 +28,7 @@ CREATE DATABASE Datenbankname;
 
 ~ Use
 ```sql
-USE Datenbankname;
+
 ```
 
 ---
